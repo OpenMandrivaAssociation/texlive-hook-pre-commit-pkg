@@ -1,6 +1,6 @@
 Name:		texlive-hook-pre-commit-pkg
 Version:	41378
-Release:	1
+Release:	2
 Summary:	Pre-commit git hook for LaTeX package developpers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hook-pre-commit-pkg
