@@ -3,7 +3,7 @@ Version:	41378
 Release:	2
 Summary:	Pre-commit git hook for LaTeX package developpers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hook-pre-commit-pkg
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hook-pre-commit-pkg
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hook-pre-commit-pkg.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hook-pre-commit-pkg.doc.r%{version}.tar.xz
